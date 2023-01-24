@@ -1,7 +1,7 @@
 # Search Algorithms
 
 # Linear Search
-Luau has for the most part fixed the speed of linear searching via ``table.find(t, v)``
+Luau has for the most part fixed the speed of linear searching via ``table.find(t, element)``
 Iterates through a list and returns once the element is found.
 ![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Linear-Search.png)
 
